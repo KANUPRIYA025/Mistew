@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "454401820790",
+    "project_id": "mistew-ce874",
+    "storage_bucket": "mistew-ce874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454401820790:android:d8fec33f0568440075b757",
+        "android_client_info": {
+          "package_name": "com.example.mistew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454401820790-nh6gtha8go1kdkqal6e5frsetsq3bgu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mistew",
+            "certificate_hash": "8364ec8f10f9b5b4e606c1cf81512fb9c017b1eb"
+          }
+        },
+        {
+          "client_id": "454401820790-lr4qjkuu6j85ulv5c8e6mb4jscss8bac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArXYTPrA7OimpKk83vlwz1g-b5M1-sBUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454401820790-lr4qjkuu6j85ulv5c8e6mb4jscss8bac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
