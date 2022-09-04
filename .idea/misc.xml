@@ -3,11 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Jerry/.gradle/caches/transforms-3/a15b010325d97aea046dd8a5ddaa8998/transformed/material-1.6.1/res/layout/mtrl_navigation_rail_item.xml" value="0.1" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/drawable/ic_icons8_support.xml" value="0.1" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/drawable/icons8-share (1).xml" value="0.1" />
         <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/drawable/input_design.xml" value="0.1" />
-        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/activity_admin_add_new_product.xml" value="0.22" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/activity_admin_category.xml" value="0.1" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
         <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/activity_main2.xml" value="0.1" />
         <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/app_bar_home.xml" value="0.12" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/content_home.xml" value="0.25" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/fragment_gallery.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/fragment_slideshow.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/nav_header_home.xml" value="0.1" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/layout/product_item_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/menu/activity_main_drawer.xml" value="0.22" />
+        <entry key="..\:/Users/Jerry/AndroidStudioProjects/Mistew/app/src/main/res/menu/home.xml" value="0.1796875" />
       </map>
     </option>
   </component>
